@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "atcoder"
+version = "0.1.0"
+description = ""
+authors = ["Daiya Mita <18240230+dw-dw-dt@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numba = "^0.56.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
