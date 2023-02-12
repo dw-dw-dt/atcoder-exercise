@@ -6,7 +6,7 @@ authors = ["Daiya Mita <18240230+dw-dw-dt@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9, <3.10"
 numba = "^0.56.4"
 
 
